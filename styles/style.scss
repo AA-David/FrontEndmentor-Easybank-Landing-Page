@@ -92,6 +92,7 @@ p {
 
 a:hover {
     transition: 200ms;
+    color: $lime-green;
 }
 
 .overlay {
@@ -351,10 +352,6 @@ footer {
 
         li {
             margin-bottom: 1em;
-        }
-
-        a:hover {
-            color: $lime-green;
         }
     }
 
