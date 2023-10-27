@@ -19,8 +19,8 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/easybank-landing-page-using-html-css-and-js-gteDjKtk6D)
-- Live Site URL: [Add live site URL here](https://aa-david.github.io/FrontEndmentor-Easybank-Landing-Page)
+- Solution URL: https://www.frontendmentor.io/solutions/easybank-landing-page-using-html-css-and-js-gteDjKtk6D
+- Live Site URL: https://aa-david.github.io/FrontEndmentor-Easybank-Landing-Page
 
 ## My process
 
